@@ -64,4 +64,9 @@ folders: Containers for grouping resources.
 folder_resources: Junction table connecting the two.
 
 summaries: Linked to Playlists for extra study notes.
-Auth: Admin-only access to /dashboard verified via an admins table in public schema.
+Auth: Admin-only access to /dashboard verified via an admins table in public schema./
+
+<!-- SPECKIT START -->
+For additional context about technologies to be used, project structure,
+shell commands, and other important information, read the current plan
+<!-- SPECKIT END -->
